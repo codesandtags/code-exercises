@@ -96,7 +96,6 @@ class HiloImplementado implements Runnable {
 	 * 
 	 * @see java.lang.Runnable#run()
 	 */
-	@Override
 	public void run() {
 
 		String nombreHilo = Thread.currentThread().getName();

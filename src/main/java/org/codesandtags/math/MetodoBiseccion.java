@@ -18,7 +18,6 @@ public class MetodoBiseccion implements Funcion {
 
 	}
 
-	@Override
 	public double funcion(double x) {
 		double resultado = Math.pow((Math.E), x) - (3 * x);
 		//System.out.println("   x = " + x + " : " + resultado);
