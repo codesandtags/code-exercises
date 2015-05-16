@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<redinfocol>
+	<miembro id="1">
+		<nickname>Clerigo</nickname>
+		<cargo>Project Manager</cargo>
+		<hobbies>
+			<hobbie>Desarrollo software</hobbie>
+			<hobbie>Curiosidad saber cosas</hobbie>
+		</hobbies>
+	</miembro>
+	<miembro id="2">
+		<nickname>DMK</nickname>
+		<cargo>No se sabe</cargo>
+		<hobbies>
+			<hobbie>Desarrollo Web</hobbie>
+			<hobbie>Fotografia</hobbie>
+			<hobbie>Desarrollo aplicaciones moviles</hobbie>
+			<hobbie>Viajar</hobbie>
+		</hobbies>
+	</miembro>
+	<miembro id="3">
+		<nickname>Phicar</nickname>
+		<cargo>No se sabe</cargo>
+		<hobbies>
+			<hobbie>Criptografia</hobbie>
+			<hobbie>Programacion en General</hobbie>
+			<hobbie>Algoritmos</hobbie>
+		</hobbies>
+	</miembro>
+	<miembro id="44">
+		<nickname>Zarek</nickname>
+		<cargo>No se sabe</cargo>
+		<hobbies>
+			<hobbie>Domotica</hobbie>
+			<hobbie>Wargames</hobbie>
+			<hobbie>Seguridad Perimetral</hobbie>
+		</hobbies>
+	</miembro>
+	<miembro id="55">
+		<nickname>Radical / 00000000</nickname>
+		<cargo>Portavoz de RIC.</cargo>
+		<hobbies>
+			<hobbie>Patrones Ingenieria social</hobbie>
+			<hobbie>Procesamiento Lenguaje Natural</hobbie>
+			<hobbie>Interaccion Hombre maquina</hobbie>
+		</hobbies>
+	</miembro>
+	<miembro id="999">
+		<nickname>Forever Alone</nickname>
+		<cargo></cargo>
+		<hobbies>
+			<hobbie>Fap Fap Fap</hobbie>
+		</hobbies>
+	</miembro>
+</redinfocol>

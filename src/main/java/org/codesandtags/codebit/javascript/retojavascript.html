@@ -1,0 +1,27 @@
+<script>
+  function comprobar(){
+    var valor=document.Comprobar.txtComprobar.value;
+    var a, z;
+
+    a=valor;
+
+    valor = (valor/50)*1200;
+    valor=parseInt(valor);
+
+    z=valor;
+    if((a+(z+valor)) == 5420260160){
+     alert("Perfect");
+    }
+    else{
+     alert("Incorrect");
+    }
+  }
+</script>
+<!-- CONTENT -->
+
+Para pasar el reto es necesario ubiques la clave, la cual esta alojada dentro del source code de la p&aacute;gina... vamos, suerte!!<br /><br />
+<center>
+<form name="Comprobar">
+  Clave<br /><input type="text" name="txtComprobar"><br />
+  <input type="button" name="btnComprobar" value="Comprobar" onClick="comprobar();"><br /><br />
+</form>
